@@ -5,3 +5,10 @@ D:\Bootcamp\projects\Homies\homies\homies\obj\Debug\homies.csprojAssemblyReferen
 D:\Bootcamp\projects\Homies\homies\homies\obj\Debug\homies.csproj.CoreCompileInputs.cache
 D:\Bootcamp\projects\Homies\homies\homies\obj\Debug\homies.exe
 D:\Bootcamp\projects\Homies\homies\homies\obj\Debug\homies.pdb
+C:\Users\Irene\Desktop\Proiecte_with_B\Homies\Homies\homies\homies\bin\Debug\homies.exe.config
+C:\Users\Irene\Desktop\Proiecte_with_B\Homies\Homies\homies\homies\bin\Debug\homies.exe
+C:\Users\Irene\Desktop\Proiecte_with_B\Homies\Homies\homies\homies\bin\Debug\homies.pdb
+C:\Users\Irene\Desktop\Proiecte_with_B\Homies\Homies\homies\homies\obj\Debug\homies.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\Homies\Homies\homies\homies\obj\Debug\homies.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\Homies\Homies\homies\homies\obj\Debug\homies.exe
+C:\Users\Irene\Desktop\Proiecte_with_B\Homies\Homies\homies\homies\obj\Debug\homies.pdb
